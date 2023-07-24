@@ -9,8 +9,8 @@ python manage.py startapp youtube_dl
 ### deploy project to linux
 python
 ```
-conda create --name django_microservices_tools_api python=3.8
-conda activate django_microservices_tools_api
+conda create --name django_microservices_tools_api-python39 python=3.9
+conda activate django_microservices_tools_api-python39
 ```
 pip
 ```
